@@ -5,7 +5,6 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
@@ -20,5 +19,7 @@ function App() {
     </>
   )
 }
+
+<video src="https://drive.google.com/file/d/1D-PPXKbm6PkdeUKqNxWTvNjh4CnehyhE/view?usp=sharing"></video>
 
 export default App
